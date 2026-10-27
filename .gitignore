@@ -1,0 +1,16 @@
+# Java compiled files
+*.class
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE files
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+
+# Exported student data
+*.csv
