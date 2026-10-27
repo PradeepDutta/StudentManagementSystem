@@ -1,7 +1,9 @@
 # Student Management System
 
 A desktop application built with **Java Swing** and **MySQL** to manage student records through a simple graphical interface.
+## Application Screenshot
 
+![Student Management System](screenshots/student-management.png)
 ## Features
 
 - Add, update, and delete student records
